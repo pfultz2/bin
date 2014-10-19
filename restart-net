@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo ifconfig en3 down && sudo ifconfig en3 up
